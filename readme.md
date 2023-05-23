@@ -2,7 +2,7 @@
 El proyecto expone las prácticas de desarrollo en lenguaje de JS, HTML, CSS. 
 
 ### Secciones
-### El [Formulario Buona Vitta](http://https://cristianfrancodev.github.io/Formulario-pacientes/ "Formulario Buona Vitta") de pacientes  y sus aplicaciones:
+### El [Formulario Buona Vitta](https://cristianfrancodev.github.io/Formulario-pacientes/ "Formulario Buona Vitta") de pacientes  y sus aplicaciones:
 
  - Filtro de paciente en planilla .
   
